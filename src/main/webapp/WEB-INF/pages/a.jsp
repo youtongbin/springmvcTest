@@ -11,6 +11,6 @@
     <title>Title</title>
 </head>
 <body>
-a jsp sucess
+a jsp success
 </body>
 </html>
