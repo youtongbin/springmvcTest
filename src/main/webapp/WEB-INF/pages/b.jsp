@@ -11,10 +11,7 @@
     <title>Title</title>
 </head>
 <body>
-    <form action="b.do" method="post">
-        姓名：<input type="text" placeholder="输入姓名" name="name">
-        密码：<input type="password" placeholder="输入密码" name="password">
-        <button type="submit">提交</button>
-    </form>
+${name}<br>
+${password}
 </body>
 </html>
